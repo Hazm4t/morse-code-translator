@@ -2,7 +2,7 @@
 
 My most recent project.
 
-The program has the ability to translate English letters to Morse Code (and vice versa) using vanilla Python. The GUI uses Tkinter and Pyperclip is used for copying output.
+The program has the ability to translate English letters to Morse Code (and vice versa) using vanilla Python. The GUI uses Tkinter and Pyperclip is used for copying output to the clipboard.
 
 The code is meant to be easy to edit for custom cyphers.
 
