@@ -70,6 +70,7 @@ window = Tk()
 window.title("Morse Code Translator")
 window.iconphoto(True, PhotoImage(file='icon.png'))
 window.geometry("500x293")
+window.resizable(False, False)
 window.configure(bg="cyan")
 
 inputText = Text(window, font=fnt.Font(size=15), width=500, height=5)

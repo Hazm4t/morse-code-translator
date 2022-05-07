@@ -6,9 +6,6 @@ The program has the ability to translate English letters to Morse Code (and vice
 
 The code is meant to be easy to edit for custom cyphers.
 
-(also could be fun for sending secret messages in discord)
+(also could be fun for sending secret messages in Discord)
 
 The only bug I've come across is a problem with copying and pasting, but the "Copy to clipboard" button should fix that.
-
-
-(note: if you do use my code, please give credit where credit is due)
